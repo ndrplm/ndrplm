@@ -32,10 +32,11 @@ From e-commerce sites to UX audits to dual roles in design/dev at Tilkee
 
 ## 🎵 A bit more about me
 
-I’m passionate about music and love working at the intersection of tech and culture. 
+I’m passionate about music and love being at the crossroads of tech and culture.  
+When I’m not coding, you’ll probably find me at a gig, practicing drums, or unwinding with a cozy game of Stardew Valley 🎧🥁🌱
 
-When I’m not coding, I’m probably at a gig, playing Stardew Valley, or practicing drums. I care deeply about clean code, clear design, and building things that feel -and look- good to use.
-
+Creativity shapes the way I think 💡 I’m happiest when I’m making something, whether it’s with code, sound, or my hands.  
+I love learning new things and genuinely enjoy sharing what I know, especially through mentoring and helping others grow.
 
 
 
