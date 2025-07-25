@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andréa !
 
-I'm a *oat milk latte fueled* frontend engineer who loves building useful, intuitive products.
+I'm an *oat milk latte fueled* frontend engineer who loves building useful, intuitive products.
 
 I started my career in the live music industry, then retrained as a software engineer in 2018. Since then, I’ve been working across music tech, SaaS, and startups to bring ideas to life through clean, thoughtful interfaces.
 
